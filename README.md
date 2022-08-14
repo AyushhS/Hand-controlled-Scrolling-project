@@ -32,6 +32,15 @@ python main.py 1
 ## Hand Gestures -
  -->
 
+## Hand gestures available for scrolling -
+
+There are 2 gestures by which you can control scrolling, Fist open and Fist close.
+
+![](https://res-1.cloudinary.com/sharecare/image/upload/c_fill,f_auto,g_faces:center,h_515,w_916/v1647284932/slideshows/hand-exercises-02)
+
+The fist open gesture deactivates the scroll function, and fist close activates it. when the fist is closed, the camera tracks the index finger's tip and scrolls the page relative to its position.
+
+
 
 ---
 **UPCOMING FEATURES** - A Fully Hand controlled mouse with left and right clicks, complete with the scroll function.
